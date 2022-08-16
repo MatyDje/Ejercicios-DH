@@ -1,0 +1,26 @@
+[
+ {
+  "titulo": "Ver Netflix",
+  "estado": "terminado"
+ },
+ {
+  "titulo": "Estudiar JS",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Irme de vacaciones",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "estudiar",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "quiero estudiar",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "trabajar",
+  "estado": "pendiente"
+ }
+]
